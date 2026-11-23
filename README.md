@@ -40,4 +40,17 @@ AUTHOR
 Raihanath A
 
 NOTE
+
 This project is developed for educational purposes only and is not intended for medical diagnosis.
+
+## 📊 Project Screenshots
+
+### Exploratory Data Analysis (EDA)
+
+![Target Distribution](Images/target_distribution.png)
+![Gender Distribution](Images/gender_distribution.png)
+![Chest Pain Distribution](Images/chest_pain_distribution.png)
+
+### Model Evaluation
+
+Add your model evaluation screenshots here.
