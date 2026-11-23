@@ -47,10 +47,11 @@ This project is developed for educational purposes only and is not intended for 
 
 ### Exploratory Data Analysis (EDA)
 
-![Target Distribution](Images/target_distribution.png)
+![Target Distribution](Images/Target%20Distribution.png)
 ![Gender Distribution](Images/gender_distribution.png)
 ![Chest Pain Distribution](Images/chest_pain_distribution.png)
 
 ### Model Evaluation
 
 Add your model evaluation screenshots here.
+
